@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hey👋 
+> [!TIP]
+> I'm OneDiagram
+> a FullStack developer
 
-<!--
-**OneDiagram/OneDiagram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> [!NOTE]
+> My Skills:
+> - Python
+> - Django
+> - discord.py(nextcord)
+> - Javascript
+> - Node.js
+> - React.js
+> - HTML, CSS
+> - Bootstrap5
+> - JQuery
+> - Sass
+> - php
+> - and many many more
 
-Here are some ideas to get you started:
+> [!IMPORTANT]
+> my Discord usernames: 293e, 293d, \_onediagram\_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+> [!WARNING]
+> Pls Don't Use my source codes for your public projects it's only for your learnings
+
+> [!CAUTION]
+> There Are some pornography contents in my projects(and I have a +18 Python library)
