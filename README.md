@@ -24,6 +24,3 @@
 
 > [!WARNING]
 > Pls Don't Use my source codes for your public projects it's only for your learnings
-
-> [!CAUTION]
-> There Are some pornography contents in my projects(and I have a +18 Python library)
