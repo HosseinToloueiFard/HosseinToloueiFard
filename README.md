@@ -1,8 +1,4 @@
 ### Hey👋 
-> [!TIP]
-> I'm OneDiagram
-> a FullStack developer
-
 > [!NOTE]
 > My Skills:
 > - Python
@@ -16,9 +12,8 @@
 > - JQuery
 > - Sass
 > - php
-> - and many many more
+> - Java
 
 > [!IMPORTANT]
 > my Discord usernames: 293e, 293d, \_onediagram\_
-
-
+> my Telegram Usernames: OneDiagram, OneDiagraam
