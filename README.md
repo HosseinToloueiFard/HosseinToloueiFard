@@ -2,7 +2,7 @@
 > [!NOTE]
 > My Skills:
 > - Python
-> - Django
+> - Flask
 > - discord.py(nextcord)
 > - Javascript
 > - Node.js
