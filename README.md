@@ -1,4 +1,5 @@
 ### Hey👋 
+## Always Learning
 > [!NOTE]
 > My Skills:
 > - Python
@@ -8,11 +9,12 @@
 > - Node.js
 > - React.js
 > - HTML, CSS
-> - Bootstrap5
+> - C
 > - JQuery
 > - Sass
 > - php
 > - Java
+> - Ruby
 
 > [!IMPORTANT]
 > my Discord usernames: 293e, 293d, \_onediagram\_
