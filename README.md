@@ -18,5 +18,5 @@
 > - Unreal Engine
 > - Arch Linux
 
-![Hossein's GitHub stats](https://github-readme-stats.vercel.app/api?username=HosseinToloueiFard&show_icons=true&theme=radical)
+[![Hossein's GitHub stats](https://github-readme-stats.vercel.app/api?username=HosseinToloueiFard)](https://github.com/anuraghazra/github-readme-stats)
 
