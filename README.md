@@ -7,7 +7,6 @@
 > - Flask
 > - JavaScript
 > - NodeJS
-> - C
 > - Rust
 > - Java
 > - Sqlite
