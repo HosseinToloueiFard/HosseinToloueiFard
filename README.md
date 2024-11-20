@@ -13,6 +13,7 @@
 > - Solidity
 > - Nginx
 > - FastAPI
+> - Shell
 > - Blender
 > - Unreal Engine
 > - Arch Linux
