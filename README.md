@@ -9,14 +9,14 @@
 > - NodeJS
 > - Rust
 > - Java
-> - Sqlite
+> - Sql
 > - Solidity
 > - Nginx
 > - FastAPI
 > - Shell
 > - Blender
 > - Unreal Engine
-> - Arch Linux
+> - I Use Arch btw
 
 
 [![Hossein's GitHub stats](https://github-readme-stats.vercel.app/api?username=HosseinToloueiFard&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
