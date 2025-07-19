@@ -8,7 +8,7 @@
 > - JavaScript
 > - NodeJS
 > - Rust
-> - Java
+> - Java(Minecraft Mods & Plugins)
 > - Sql
 > - Solidity
 > - Nginx
