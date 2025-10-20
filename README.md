@@ -9,7 +9,6 @@
 > - NodeJS
 > - Rust
 > - Java(Minecraft Mods & Plugins)
-> - Sql
 > - Solidity
 > - Nginx
 > - FastAPI
